@@ -1281,3 +1281,22 @@ footer .foot .social img:last-child {
 footer .foot .contact-info i {
     margin-right: 10px; /* Space between icon and text */
 }
+.read{
+    background-color: #000;
+    background-image: url('../images/ellipseread.png');
+    padding: 50px 0px;
+}
+.read-img{
+    padding: 50px;
+}
+.read h1{
+    color: white;
+}
+.read h2{
+    background: linear-gradient(135deg, #841676, #370CC9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}

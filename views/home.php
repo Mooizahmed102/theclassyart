@@ -140,7 +140,7 @@
             </div>
         </div>
     </div>
-    <section class="portfolio-section">
+    <section id="#porfolio" class="portfolio-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -277,6 +277,27 @@
                         <p>Design your website logo, pricing, and premium features.</p>
                         <!-- Add other details or features -->
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="read">
+        <div class="container">
+            <h1>Testimonials</h1>
+            <h2>WHAT THEY SAY</h2>
+            <div class="row">
+                <div class="read-img">
+                <img src="assets/images/readimg1.png" alt="">
+                </div>
+            </div>
+            <div class="row">
+                <div class="read-img">
+                <img src="assets/images/readimg2.png" alt="">
+                </div>
+            </div>
+            <div class="row">
+                <div class="read-img">
+                <img src="assets/images/readimg2.png" alt="">
                 </div>
             </div>
         </div>

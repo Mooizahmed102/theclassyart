@@ -124,24 +124,7 @@
                 </div>
             </div>
         </div>
-        <div class="row g-4">
-            <div class="col-lg-12">
-                <ul class="overview-nav d2">
-                    <li data-targetit="box-1" class="first active">
-                        <a href="javascript:;">NFT</a>
-                    </li>
-                    <li data-targetit="box-2">
-                        <a href="javascript:;">LOGO</a>
-                    </li>
-                    <li data-targetit="box-3">
-                        <a href="javascript:;">2D ANIMATION</a>
-                    </li>
-                    <li data-targetit="box-4">
-                        <a href="javascript:;">3D ANIMATION</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+        
         <div class="row">
             <div class="col-lg-12">
                 <div class="tab-content">
@@ -187,36 +170,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- LOGO Tab Content -->
-                    <div class="tab-pane" id="box-2">
-                        <div class="row g-4">
-                            <!-- Images for LOGO -->
-                            <div class="col-md-3">
-                                <img src="assets/images/" alt="Logo Image 1">
-                            </div>
-                            <!-- Add more images -->
-                        </div>
-                    </div>
-                    <!-- 2D ANIMATION Tab Content -->
-                    <div class="tab-pane" id="box-3">
-                        <div class="row g-4">
-                            <!-- Images for 2D ANIMATION -->
-                            <div class="col-md-3">
-                                <img src="assets/images/" alt="2D Animation Image 1">
-                            </div>
-                            <!-- Add more images -->
-                        </div>
-                    </div>
-                    <!-- 3D ANIMATION Tab Content -->
-                    <div class="tab-pane" id="box-4">
-                        <div class="row g-4">
-                            <!-- Images for 3D ANIMATION -->
-                            <div class="col-md-3">
-                                <img src="assets/images/" alt="3D Animation Image 1">
-                            </div>
-                            <!-- Add more images -->
-                        </div>
-                    </div>
+                  
                 </div>
             </div>
         </div>

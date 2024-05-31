@@ -14,27 +14,27 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="classy-text">
-                    <h1>THE CLASSY ART <span>NFTs</span></h1>
+                    <h1>THE CLASSY ART  <span>2D animation</span></h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                     <button class="get-started-btn">Get started</button>
                 </div>
                 <div class="nft-images">
                     <div class="nft-item">
-                        <img src="assets/images/snoppy.png" alt="">
-                        <h1>Snoop</h1>
+                        <img src="assets/images/zack.png" alt="">
+                        
                     </div>
                     <div class="nft-item">
-                        <img src="assets/images/jimmy.png" alt="">
-                        <h1>Jimmy</h1>
+                        <img src="assets/images/smurf.png" alt="">
+                        
                     </div>
                     <div class="nft-item">
                         <img src="assets/images/wick.png" alt="">
-                        <h1>Wick</h1>
+                        
                     </div>
                 </div>
             </div>
             <div class="col-md-6">
-                <img src="assets/images/goupjk.png" alt="" class="main-image">
+                <img src="assets/images/panda.png" alt="" class="main-image">
             </div>
         </div>
     </div>
@@ -124,24 +124,7 @@
                 </div>
             </div>
         </div>
-        <div class="row g-4">
-            <div class="col-lg-12">
-                <ul class="overview-nav d2">
-                    <li data-targetit="box-1" class="first active">
-                        <a href="javascript:;">NFT</a>
-                    </li>
-                    <li data-targetit="box-2">
-                        <a href="javascript:;">LOGO</a>
-                    </li>
-                    <li data-targetit="box-3">
-                        <a href="javascript:;">2D ANIMATION</a>
-                    </li>
-                    <li data-targetit="box-4">
-                        <a href="javascript:;">3D ANIMATION</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+        
         <div class="row">
             <div class="col-lg-12">
                 <div class="tab-content">
@@ -187,36 +170,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- LOGO Tab Content -->
-                    <div class="tab-pane" id="box-2">
-                        <div class="row g-4">
-                            <!-- Images for LOGO -->
-                            <div class="col-md-3">
-                                <img src="assets/images/" alt="Logo Image 1">
-                            </div>
-                            <!-- Add more images -->
-                        </div>
-                    </div>
-                    <!-- 2D ANIMATION Tab Content -->
-                    <div class="tab-pane" id="box-3">
-                        <div class="row g-4">
-                            <!-- Images for 2D ANIMATION -->
-                            <div class="col-md-3">
-                                <img src="assets/images/" alt="2D Animation Image 1">
-                            </div>
-                            <!-- Add more images -->
-                        </div>
-                    </div>
-                    <!-- 3D ANIMATION Tab Content -->
-                    <div class="tab-pane" id="box-4">
-                        <div class="row g-4">
-                            <!-- Images for 3D ANIMATION -->
-                            <div class="col-md-3">
-                                <img src="assets/images/" alt="3D Animation Image 1">
-                            </div>
-                            <!-- Add more images -->
-                        </div>
-                    </div>
+                  
                 </div>
             </div>
         </div>
@@ -257,10 +211,22 @@
 </div>
 <div class="get-touch">
     <div class="container">
-        <span class="left-image"><img src="assets/images/monkey56.png" alt=""></span>
-        <h1>Get In Touch</h1>
-        <button>Contact Us</button>
-        <span class="right-image"><img src="assets/images/monket24.png" alt=""></span>
+        <div class="row">
+            <div class="col-md-4 left-column">
+                <span class="left-image">
+                    <img src="assets/images/monkey56.png" alt="">
+                </span>
+            </div>
+            <div class="col-md-4 middle-column">
+                <h1>Get In Touch</h1>
+                <button>Contact Us</button>
+            </div>
+            <div class="col-md-4 right-column">
+                <span class="right-image">
+                    <img src="assets/images/monket24.png" alt="">
+                </span>
+            </div>
+        </div>
     </div>
 </div>
 <?php include_once("includes/footer.php") ?>

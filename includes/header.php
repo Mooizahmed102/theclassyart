@@ -23,6 +23,7 @@
                                 <a href="javascript:void(0);" class="menu-link dropdown-toggle">Services</a>
                                 <ul class="dropdown-menu">
                                     <li><a href="nfts/" class="dropdown-item">NFTs</a></li>
+                                    <li><a href="logo/" class="dropdown-item">Logo</a></li>
                                     <li><a href="2d-animation/" class="dropdown-item">2D Animation</a></li>
                                     <li><a href="3d-animation/" class="dropdown-item">3D Animation</a></li>
                                     <li><a href="ui-ux-designing/" class="dropdown-item">UI UX Designing</a></li>

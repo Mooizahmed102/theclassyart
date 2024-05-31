@@ -277,7 +277,101 @@ header {
 
 
 /* Hamburger Menu */
+.main-header {
+    background-color: transparent; /* Make the background transparent */
+    padding: 10px 0;
+}
 
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-item {
+    margin: 0 15px;
+}
+
+.menu-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    transition: color 0.3s;
+}
+
+.menu-link:hover,
+.menu-link.active {
+    color: purple;
+}
+
+.header-btn {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+.header-btn:hover,
+.header-btn:focus {
+    color: purple;
+    border-color: purple;
+}
+
+.logo img {
+    max-height: 50px; /* Adjust as needed */
+}
+
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+}
+
+@media (max-width: 767px) {
+    .menu {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        background-color: rgba(51, 51, 51, 0.9); /* Semi-transparent background for the mobile menu */
+        position: absolute;
+        top: 60px; /* Adjust as needed */
+        width: 100%;
+        left: 0;
+        padding: 10px 0;
+    }
+
+    .menu-item {
+        margin: 10px 0;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .menu.active {
+        display: flex;
+    }
+}
+.header-btn {
+    display: flex;
+    align-items: center;
+}
+
+.contact-icon {
+    width: 24px; /* Adjust as needed */
+    margin-right: 5px; /* Add spacing between icon and text */
+}
+
+.menu-link {
+    color: white; /* Set text color to white */
+}
 
 /* Menu Css */
 
@@ -439,7 +533,7 @@ ul.dropdown li a:hover {
 }
 /* first sextion */
 .first-hero{
-    background-image: url('../images/group51.png');
+    background-image: url('../images/rectangle32.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -450,9 +544,72 @@ ul.dropdown li a:hover {
     color: white;
     font-size: 30px;
 }
+.explore-text h2{
+    color: white;
+    font-size: 18px;
+    padding-top: 28px;
+}
+.explore-text img{
+    width: 30%;
+    padding-top: 22px;
+}
 .explore-img{
     padding-top: 65px;
 }
+/* Text Marquee Effect */
+.marquee, .marquee2 {
+    position: relative;
+    overflow: hidden;
+    white-space: nowrap;
+    background-color: #000000;
+    margin: 0 auto;
+    padding: 0.5em 0;
+    box-sizing: border-box;
+}
+
+.marquee {
+    margin-top: 5rem;
+    transform: rotate(-5deg) scale(1.1);
+}
+
+.marquee2 {
+    transform: rotate(5deg) scale(1.1);
+    margin-top: -3rem; /* Adjust to position properly */
+}
+
+.marquee .marquee__text, .marquee2 .marquee__text {
+    display: inline-block;
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: white;
+}
+
+.marquee[data-direction="rtl"] .marquee__text {
+    animation: marquee-rtl 15s linear infinite;
+}
+
+.marquee2[data-direction="ltr"] .marquee__text {
+    animation: marquee-ltr 15s linear infinite;
+}
+
+@keyframes marquee-rtl {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+@keyframes marquee-ltr {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(100%);
+    }
+}
+
 
 
 
@@ -762,4 +919,365 @@ ul.dropdown li a:hover {
 .plan-card:hover {
     transform: translateY(-5px);
     transition: transform 0.3s ease;
+}
+
+
+
+
+
+/* seconpage */
+.services-first {
+    background: url('../images/rectangle3.png') no-repeat center center/cover;
+    position: relative;
+}
+
+.classy-text {
+    margin-top: 50px; /* Move classy-text section down */
+    margin-bottom: 30px; /* Add spacing below classy-text section */
+}
+
+.classy-text h1 {
+    color: white;
+    font-weight: bold; /* Make the text bold */
+    margin-bottom: 20px;
+    font-size: 36px; /* Increase the size of the h1 text */
+}
+
+.classy-text h1 span {
+    font-weight: normal; /* Set span weight to normal */
+}
+
+.classy-text p {
+    color: white;
+    margin-bottom: 20px; /* Add spacing between paragraphs */
+}
+
+.get-started-btn {
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.get-started-btn:hover {
+    background-color: white;
+    color: black;
+}
+
+.nft-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Distribute items evenly */
+    margin-top: 20px;
+}
+
+.nft-item {
+    width: calc(33.33% - 10px); /* Adjust width for three images in a row with spacing */
+    margin-bottom: 20px; /* Add spacing between items */
+}
+
+.nft-item img {
+    width: 100%; /* Fill container width */
+    height: auto;
+    object-fit: cover;
+}
+
+.nft-item h1 {
+    color: white;
+    margin-top: 10px;
+    font-size: 24px; /* Increase the size of h1 text */
+    font-weight: bold; /* Make the text bold */
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.classy-text, .nft-images, .main-image {
+    animation: fadeInUp 1s ease-out;
+}
+
+
+/* seconsectionservices */
+.services-sec {
+    background: url('path/to/your/image.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 50px 0;
+    background-color: #000;
+}
+.services-sec .row{
+    background: #0e0e0e;
+    border-radius: 103px;
+}
+
+.text-content {
+    padding-right: 20px;
+}
+
+.text-white {
+    color: white;
+}
+
+.btn-white {
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.image-container {
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.centered-image {
+    max-width: 50%;
+    height: auto;
+}
+/* thirdservices */
+.services-third {
+    background-color: black;
+    padding: 50px 0;
+}
+
+.services-third .container .main-heading {
+    color: white;
+    text-align: center;
+    font-size: 36px; /* Increase the font size */
+}
+
+.services-third .container .row {
+    display: flex;
+    align-items: center;
+}
+
+.services-third .container .col-md-6:first-child {
+    margin-bottom: 50px; /* Adjust as needed */
+}
+
+.services-third .container .col-md-6:last-child {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start; /* Align items to the left */
+}
+
+.services-third .container img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.services-third .container .min-nft h1 {
+    color: white;
+    font-size: 24px; /* Increase the font size */
+    margin-bottom: 10px; /* Add some space below */
+    text-align: left; /* Align to the left */
+}
+
+.services-third .container .min-nft h2 {
+    background: linear-gradient(to right, purple, blue);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    border: 2px solid transparent;
+    font-size: 28px; /* Increase the font size */
+}
+
+.services-third .container .min-nft p {
+    color: white;
+    font-size: 16px; /* Decrease the font size */
+    letter-spacing: 1px; /* Add letter spacing */
+}
+
+.services-third .container .col-md-6:last-child {
+    margin-top: 221px; /* Push to the top */
+    margin-bottom: auto; /* Push to the bottom */
+}
+
+/* Previous styles for the `.btn-white` */
+.btn-white {
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.services-third h1{
+    text-align: center;
+    color: white;
+    font-size: 43px;
+}
+/* setintouch */
+.get-touch {
+    background-image: url('../images/kkk.png');
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    padding: 41px 0;
+    overflow: hidden; /* Ensure the overflow does not affect the height */
+}
+
+.get-touch .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.get-touch .row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.get-touch .left-column, .get-touch .middle-column, .get-touch .right-column {
+    flex: 1;
+    padding: 10px;
+    position: relative;
+}
+
+.get-touch h1 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.get-touch button {
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+}
+
+.get-touch .left-image img, .get-touch .right-image img {
+    position: absolute;
+    max-width: none; /* Remove max-width to allow custom sizing */
+}
+
+.get-touch .left-image img {
+    top: -125px;
+    left: -93px;
+    width: 254px;
+}
+
+.get-touch .right-image img {
+    top: -82px;
+    right: -83px;
+    width: 286px;
+
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+    .get-touch .left-column, .get-touch .middle-column, .get-touch .right-column {
+        flex: 1 1 100%;
+        text-align: center;
+    }
+
+    .get-touch .left-image img, .get-touch .right-image img {
+        position: relative;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100px; /* Adjust as needed for smaller screens */
+    }
+
+    .get-touch .left-image img {
+        margin-bottom: 20px;
+    }
+
+    .get-touch .right-image img {
+        margin-top: 20px;
+    }
+}
+
+
+/* footerse */
+.foot{
+    background-image: url('../images/footerimg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px 0;
+}
+
+
+footer .foot .container {
+    max-width: 1200px; /* Max width for the container */
+    margin: 0 auto; /* Center the container */
+}
+
+footer .foot .row {
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Distribute space between columns */
+    flex-wrap: wrap; /* Allow columns to wrap if necessary */
+}
+
+footer .foot .col-md-3 {
+    flex: 1; /* Allow columns to grow equally */
+    min-width: 200px; /* Minimum width for each column */
+    margin-bottom: 20px; /* Space at the bottom of each column */
+}
+
+footer .foot h1 {
+    font-size: 18px; /* Font size for headings */
+    margin-bottom: 20px; /* Space below headings */
+    color: #fff; /* Heading color */
+}
+
+footer .foot ul {
+    list-style: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+}
+
+footer .foot ul li {
+    margin-bottom: 10px; /* Space below each list item */
+}
+
+footer .foot ul li a {
+    color: #fff; /* Default link color */
+    text-decoration: none; /* Remove underline from links */
+    transition: color 0.3s; /* Smooth color transition */
+}
+
+footer .foot ul li a:hover {
+    color: purple; /* Link color on hover */
+}
+
+footer .foot .social img {
+    margin-right: 10px; /* Space between social icons */
+    width: 24px; /* Width of social icons */
+    height: 24px; /* Height of social icons */
+}
+
+footer .foot .social img:last-child {
+    margin-right: 0; /* Remove space from the last icon */
+}
+
+footer .foot .contact-info i {
+    margin-right: 10px; /* Space between icon and text */
 }

@@ -14,8 +14,8 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="classy-text">
-                    <h1>CONTACT US</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                    <h1>Thank You</h1>
+                    <p>We will contact you</p>
                     <button class="get-started-btn">Get started</button>
                 </div>
                

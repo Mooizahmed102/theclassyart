@@ -40,7 +40,7 @@ TCA World</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-md-4">
                 <a href="">NFTs</a>
                 </div>
@@ -50,7 +50,7 @@ TCA World</a></li>
                 <div class="col-md-4">
                 <a href="">NFTs</a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </footer>

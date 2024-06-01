@@ -14,27 +14,27 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="classy-text">
-                    <h1>THE CLASSY ART <span>NFTs</span></h1>
+                    <h1>THE CLASSY ART  <span>UI UX Designing</span></h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                     <button class="get-started-btn">Get started</button>
                 </div>
                 <div class="nft-images">
                     <div class="nft-item">
-                        <img src="assets/images/snoppy.png" alt="">
-                        <h1>Snoop</h1>
+                        <img src="assets/images/web.png" alt="">
+                        
                     </div>
                     <div class="nft-item">
-                        <img src="assets/images/jimmy.png" alt="">
-                        <h1>Jimmy</h1>
+                        <img src="assets/images/mobile.png" alt="">
+                        
                     </div>
                     <div class="nft-item">
-                        <img src="assets/images/wick.png" alt="">
-                        <h1>Wick</h1>
+                        <img src="assets/images/watch.png" alt="">
+                        
                     </div>
                 </div>
             </div>
             <div class="col-md-6">
-                <img src="assets/images/goupjk.png" alt="" class="main-image">
+                <img src="assets/images/uiside.png" alt="" class="main-image">
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@
             </div>
             <div class="col-md-6 text-center">
                 <div class="image-container">
-                    <img src="assets/images/58.png" alt="" class="centered-image">
+                    <img src="assets/images/group101.png" alt="" class="centered-image">
                 </div>
             </div>
         </div>
@@ -63,7 +63,7 @@
         
         <div class="row">
             <div class="col-md-6">
-                <img src="assets/images/ngt52.png" alt="">
+                <img src="assets/images/group103.png" alt="">
             </div>
             <div class="col-md-6">
                 <div class="min-nft">
@@ -89,7 +89,7 @@
             </div>
             <div class="col-md-6">
                 
-                <img src="assets/images/ngt53.png" alt="">
+                <img src="assets/images/group104.png" alt="">
             </div>
         </div>
     </div>
@@ -100,7 +100,7 @@
         
         <div class="row">
             <div class="col-md-6">
-            <img src="assets/images/nft54.png" alt="">
+            <img src="assets/images/group105.png" alt="">
             </div>
             <div class="col-md-6">
             <div class="min-nft">
@@ -133,40 +133,40 @@
                         <div class="row g-4">
                             <!-- Images for NFT -->
                             <div class="col-md-3">
-                                <img src="assets/images/1.png" alt="NFT Image 1">
+                                <img src="assets/images/ui1.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/2.png" alt="NFT Image 1">
+                                <img src="assets/images/ui2.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/3.png" alt="NFT Image 1">
+                                <img src="assets/images/ui3.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/4.png" alt="NFT Image 1">
+                                <img src="assets/images/ui4.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/5.png" alt="NFT Image 1">
+                                <img src="assets/images/ui5.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/6.png" alt="NFT Image 1">
+                                <img src="assets/images/ui6.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/7.png" alt="NFT Image 1">
+                                <img src="assets/images/ui7.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/8.png" alt="NFT Image 1">
+                                <img src="assets/images/ui8.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/9.png" alt="NFT Image 1">
+                                <img src="assets/images/ui9.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/10.png" alt="NFT Image 1">
+                                <img src="assets/images/ui10.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/11.png" alt="NFT Image 1">
+                                <img src="assets/images/ui11.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/12.png" alt="NFT Image 1">
+                                <img src="assets/images/ui12.png" alt="NFT Image 1">
                             </div>
                         </div>
                     </div>

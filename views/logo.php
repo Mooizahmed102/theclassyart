@@ -133,40 +133,40 @@
                         <div class="row g-4">
                             <!-- Images for NFT -->
                             <div class="col-md-3">
-                                <img src="assets/images/1.png" alt="NFT Image 1">
+                                <img src="assets/images/l1.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/2.png" alt="NFT Image 1">
+                                <img src="assets/images/l2.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/3.png" alt="NFT Image 1">
+                                <img src="assets/images/l3.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/4.png" alt="NFT Image 1">
+                                <img src="assets/images/l4.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/5.png" alt="NFT Image 1">
+                                <img src="assets/images/l5.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/6.png" alt="NFT Image 1">
+                                <img src="assets/images/l6.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/7.png" alt="NFT Image 1">
+                                <img src="assets/images/l7.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/8.png" alt="NFT Image 1">
+                                <img src="assets/images/l8.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/9.png" alt="NFT Image 1">
+                                <img src="assets/images/l9.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/10.png" alt="NFT Image 1">
+                                <img src="assets/images/l10.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/11.png" alt="NFT Image 1">
+                                <img src="assets/images/l11.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/12.png" alt="NFT Image 1">
+                                <img src="assets/images/l12.png" alt="NFT Image 1">
                             </div>
                         </div>
                     </div>

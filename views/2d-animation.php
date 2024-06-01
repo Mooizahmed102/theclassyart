@@ -28,7 +28,7 @@
                         
                     </div>
                     <div class="nft-item">
-                        <img src="assets/images/wick.png" alt="">
+                        <img src="assets/images/group88.png" alt="">
                         
                     </div>
                 </div>
@@ -51,7 +51,7 @@
             </div>
             <div class="col-md-6 text-center">
                 <div class="image-container">
-                    <img src="assets/images/58.png" alt="" class="centered-image">
+                    <img src="assets/images/group78.png" alt="" class="centered-image">
                 </div>
             </div>
         </div>
@@ -63,12 +63,12 @@
         
         <div class="row">
             <div class="col-md-6">
-                <img src="assets/images/ngt52.png" alt="">
+                <img src="assets/images/group75.png" alt="">
             </div>
             <div class="col-md-6">
                 <div class="min-nft">
                     <h1>Insights</h1>
-                    <h2>Minting an NFT</h2>
+                    <h2>Plan and Sketch</h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
             </div>
@@ -83,13 +83,13 @@
             <div class="col-md-6">
             <div class="min-nft">
                     <h1>Insights</h1>
-                    <h2>Buying and Selling NFTs</h2>
+                    <h2>Create and Refine</h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 
-                <img src="assets/images/ngt53.png" alt="">
+                <img src="assets/images/group77.png" alt="">
             </div>
         </div>
     </div>
@@ -100,12 +100,12 @@
         
         <div class="row">
             <div class="col-md-6">
-            <img src="assets/images/nft54.png" alt="">
+            <img src="assets/images/group79.png" alt="">
             </div>
             <div class="col-md-6">
             <div class="min-nft">
                     <h1>Insights</h1>
-                    <h2>Consideration  of things</h2>
+                    <h2>Finalize and Polish</h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
                
@@ -133,40 +133,40 @@
                         <div class="row g-4">
                             <!-- Images for NFT -->
                             <div class="col-md-3">
-                                <img src="assets/images/1.png" alt="NFT Image 1">
+                                <img src="assets/images/2d1.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/2.png" alt="NFT Image 1">
+                                <img src="assets/images/2d2.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/3.png" alt="NFT Image 1">
+                                <img src="assets/images/2d3.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/4.png" alt="NFT Image 1">
+                                <img src="assets/images/2d4.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/5.png" alt="NFT Image 1">
+                                <img src="assets/images/2d5.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/6.png" alt="NFT Image 1">
+                                <img src="assets/images/2d6.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/7.png" alt="NFT Image 1">
+                                <img src="assets/images/2d7.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/8.png" alt="NFT Image 1">
+                                <img src="assets/images/2d8.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/9.png" alt="NFT Image 1">
+                                <img src="assets/images/2d9.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/10.png" alt="NFT Image 1">
+                                <img src="assets/images/2d10.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/11.png" alt="NFT Image 1">
+                                <img src="assets/images/2d11.png" alt="NFT Image 1">
                             </div>
                             <div class="col-md-3">
-                                <img src="assets/images/12.png" alt="NFT Image 1">
+                                <img src="assets/images/2d12.png" alt="NFT Image 1">
                             </div>
                         </div>
                     </div>

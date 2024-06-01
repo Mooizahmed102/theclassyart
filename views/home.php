@@ -215,23 +215,87 @@
                         </div>
                         <!-- LOGO Tab Content -->
                         <div class="tab-pane" id="box-2">
-                            <div class="row g-4">
-                                <!-- Images for LOGO -->
-                                <div class="col-md-3">
-                                    <img src="assets/images/" alt="Logo Image 1">
-                                </div>
-                                <!-- Add more images -->
+                        <div class="row g-4">
+                            <!-- Images for NFT -->
+                            <div class="col-md-3">
+                                <img src="assets/images/l1.png" alt="NFT Image 1">
                             </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l2.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l3.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l4.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l5.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l6.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l7.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l8.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l9.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l10.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l11.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/l12.png" alt="NFT Image 1">
+                            </div>
+                        </div>
                         </div>
                         <!-- 2D ANIMATION Tab Content -->
                         <div class="tab-pane" id="box-3">
-                            <div class="row g-4">
-                                <!-- Images for 2D ANIMATION -->
-                                <div class="col-md-3">
-                                    <img src="assets/images/" alt="2D Animation Image 1">
-                                </div>
-                                <!-- Add more images -->
+                        <div class="row g-4">
+                            <!-- Images for NFT -->
+                            <div class="col-md-3">
+                                <img src="assets/images/2d1.png" alt="NFT Image 1">
                             </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d2.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d3.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d4.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d5.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d6.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d7.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d8.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d9.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d10.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d11.png" alt="NFT Image 1">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="assets/images/2d12.png" alt="NFT Image 1">
+                            </div>
+                        </div>
                         </div>
                         <!-- 3D ANIMATION Tab Content -->
                         <div class="tab-pane" id="box-4">

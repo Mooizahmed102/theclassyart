@@ -39,8 +39,8 @@
                     <div class="menuWrap">
                         <ul class="menu">
                             <li class="menu-item">
-                                <a href="javascript:void(0);" class="header-btn" aria-label="contact" onclick="setButtonURL();">
-                                    <img src="assets/images/" alt="Contact Icon" class="contact-icon">
+                                <a href="contact-us/" class="header-btn" aria-label="contact" onclick="setButtonURL();">
+                                    
                                     <span>Contact Us</span>
                                 </a>
                             </li>

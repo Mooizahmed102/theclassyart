@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>services</title>
+    <title>logo</title>
     <?php include_once("includes/head.php") ?>
 </head>
 <body>
@@ -15,7 +15,7 @@
             <div class="col-md-6">
                 <div class="classy-text">
                     <h1>THE CLASSY ART <span>LOGO</span></h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                    <p>Embarking on the journey of building a business from scratch is both exhilarating and daunting. But fear not, as The Classy Art is here to illuminate your path to success. Elevate your brand with a captivating logo design that not only enhances visibility but also accelerates growth. Dive into our collection of case studies, each a testament to the transformative power of a perfect logo. As the preferred logo design company, we specialize in turning your ideas into stunning reality. Let's craft a brand identity that stands the test of time, together.</p>
                     <button class="get-started-btn">Get started</button>
                 </div>
                 <div class="nft-images">
@@ -57,6 +57,7 @@
         </div>
     </div>
 </div>
+
 <div class="services-third">
 <h1>How it's all done</h1>
     <div class="container">
@@ -69,7 +70,7 @@
                 <div class="min-nft">
                     <h1>Insights</h1>
                     <h2>Concept</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>The Classy Art, where we offer a bespoke Logo Concept service tailored to your brand's needs. Our dedicated team of designers specializes in crafting unique and impactful logo concepts that embody the essence of your brand. From initial brainstorming to final execution, we work closely with you to ensure that every aspect of your brand identity is captured in the design. Whether you're launching a new venture or rebranding an existing one, trust The Classy Art to deliver a logo concept that leaves a lasting impression and sets you apart from the competition.</p>
                 </div>
             </div>
         </div>
@@ -84,7 +85,7 @@
             <div class="min-nft">
                     <h1>Insights</h1>
                     <h2>Design</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>At The Classy Art, design is more than just aesthetics – it's the cornerstone of innovation and expression. Our design services encompass a spectrum of creativity, from logo design to web development, ensuring your brand is visually striking and impactful. With meticulous attention to detail and a passion for pushing boundaries, our team of designers transforms concepts into captivating visuals that resonate with your audience. Whether you're starting from scratch or reimagining your brand, trust The Classy Art to bring your vision to life with elegance and flair.</p>
                 </div>
             </div>
             <div class="col-md-6">
@@ -106,7 +107,7 @@
             <div class="min-nft">
                     <h1>Insights</h1>
                     <h2>REFIne</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>Refine your brand with The Classy Art. Our logo design service is your key to unlocking the full potential of your business identity. Through meticulous craftsmanship and attention to detail, we transform your vision into a stunning reality. Dive into our portfolio of refined designs, each a testament to our commitment to excellence. With The Classy Art by your side, your brand will not only stand out but also leave a lasting impression on your audience. Let's elevate your brand to new heights together.</p>
                 </div>
                
             </div>
@@ -178,32 +179,95 @@
 </section>
 <div class="exclusive-plan">
     <div class="container">
-        <div class="row">
+        <div class="row row-header">
             <div class="col-md-12 text-center">
                 <h1>Pricing</h1>
                 <h2 class="gradient-text">EXCLUSIVE PLANS</h2>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="plan-card">
-                    <h3>Basic Plan</h3>
-                    <p>Design your website logo and pricing.</p>
-                    <!-- Add other details or features -->
+        <div class="row row-cards">
+            <div class="col-1-of-3">
+                <div class="card">
+                    <div class="card__side card__side--front card__side--front-1">
+                        <div class="card__pic card__pic--1"></div>
+                        <h4 class="card__heading">
+                            <!-- <span class="card__h-span-1">Road Bikes</span> -->
+                        </h4>
+                        <div class="card__details">
+                            <ul>
+                                <li>BASIC</li>
+                                <!-- <li>On-road racing</li>
+                                <li>Paved trails</li>
+                                <li>Very light</li>
+                                <li>Very fast</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card__side card__side--back card__side--back-1">
+                        <div class="card__side2-content">
+                            <h4 class="card__price">
+                                <p class="card__price-only">Only</p> 
+                                <p class="card__price-value">$999</p>
+                            </h4>
+                            <a href="" class="btn btn--white">Buy Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="plan-card">
-                    <h3>Plus Plan</h3>
-                    <p>Design your website logo, pricing, and more.</p>
-                    <!-- Add other details or features -->
+            <div class="col-1-of-3">
+                <div class="card">
+                    <div class="card__side card__side--front card__side--front-1">
+                        <div class="card__pic card__pic--2"></div>
+                        <h4 class="card__heading">
+                            <span class="card__h-span-2"><span class="card__span-mountain"></span> </span>
+                        </h4>
+                        <div class="card__details">
+                            <ul>
+                                <li>PLUS</li>
+                                <!-- <li>Full-suspension</li>
+                                <li>Wide tires</li>
+                                <li>Hydraulic breaks</li>
+                                <li>26'</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card__side card__side--back card__side--back-2">
+                        <div class="card__side2-content">
+                            <h4 class="card__price">
+                                <p class="card__price-only">Only</p> 
+                                <p class="card__price-value">$1999</p>
+                            </h4>
+                            <a href="" class="btn btn--white">Buy Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="plan-card">
-                    <h3>Premium Plan</h3>
-                    <p>Design your website logo, pricing, and premium features.</p>
-                    <!-- Add other details or features -->
+            <div class="col-1-of-3">
+                <div class="card">
+                    <div class="card__side card__side--front card__side--front-1">
+                        <div class="card__pic card__pic--3"></div>
+                        <h4 class="card__heading">
+                            <span class="card__h-span-3"></span>
+                        </h4>
+                        <div class="card__details">
+                            <ul>
+                                <li>PREMIUM</li>
+                                <!-- <li>Lightweight</li>
+                                <li>Carbon front</li>
+                                <li>Mudquarded</li>
+                                <li>+ Carrier</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card__side card__side--back card__side--back-3">
+                        <div class="card__side2-content">
+                            <h4 class="card__price">
+                                <p class="card__price-only">Only</p> 
+                                <p class="card__price-value">$499</p>
+                            </h4>
+                            <a href="" class="btn btn--white">Buy Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

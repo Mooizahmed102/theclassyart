@@ -14,7 +14,7 @@
                         </button>
                         <ul class="menu">
                             <li class="menu-item">
-                                <a href="/" class="menu-link">Home</a>
+                                <a href="/" class="menu-link active">Home</a>
                             </li>
                             <li class="menu-item">
                                 <a href="#portfolio" class="menu-link">Portfolio</a>
@@ -39,9 +39,8 @@
                     <div class="menuWrap">
                         <ul class="menu">
                             <li class="menu-item">
-                                <a href="contact-us/" class="header-btn" aria-label="contact" onclick="setButtonURL();">
-                                    
-                                    <span>Contact Us</span>
+                                <a href="contact-us/" class="header-btn" onclick="setButtonURL();">
+                                    <img src="assets/images/contactbtn.png" alt="">
                                 </a>
                             </li>
                         </ul>
@@ -51,9 +50,9 @@
         </div>
     </div>
 </header>
-<style>/* General header styles */
 
-
+<style>
+/* General header styles */
 .menuWrap {
     position: relative;
 }
@@ -84,11 +83,22 @@
     color: purple;
 }
 
-.header-btn {
-    display: flex;
-    align-items: center;
-    color: white;
-    text-decoration: none;
+/* Active menu item styles */
+.menu-link.active {
+    font-weight: bold;
+    position: relative;
+}
+
+.menu-link.active::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 6px;
+    height: 6px;
+    background-color: lightblue;
+    border-radius: 50%;
 }
 
 .contact-icon {
@@ -98,11 +108,6 @@
 /* Dropdown menu styles */
 .dropdown {
     position: relative;
-}
-
-.dropdown-toggle::after {
-    content: ' ▼';
-    font-size: 0.8rem;
 }
 
 .dropdown-menu {
@@ -149,6 +154,7 @@
     }
 }
 </style>
+
 <script>
 function toggleMenu() {
     const menu = document.querySelector('.menu');

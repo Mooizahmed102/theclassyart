@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>services</title>
+    <title>Services-3D Animation </title>
     <?php include_once("includes/head.php") ?>
 </head>
 <body>
@@ -15,20 +15,20 @@
             <div class="col-md-6">
                 <div class="classy-text">
                     <h1>THE CLASSY ART <span>3D animation</span></h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                    <p>Dive into a world of boundless creativity with The Classy Art's 3D animations. With every frame, we sculpt mesmerizing characters and breathtaking landscapes that transport audiences to new realms of wonder and excitement. Let us bring your imagination to life in stunning detail and vibrant color.</p>
                     <button class="get-started-btn">Get started</button>
                 </div>
                 <div class="nft-images">
                     <div class="nft-item">
-                        <img src="assets/images/sam.png" alt="">
+                        <img src="assets/images/rectangle90.png" alt="">
                         
                     </div>
                     <div class="nft-item">
-                        <img src="assets/images/wells.png" alt="">
-                       
+                        <img src="assets/images/group91.png" alt="">
+                        
                     </div>
                     <div class="nft-item">
-                        <img src="assets/images/martini.png" alt="">
+                        <img src="assets/images/group92.png" alt="">
                         
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                 <div class="min-nft">
                     <h1>Insights</h1>
                     <h2>Minting an NFT</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>Crafting lifelike 3D models is an art form that brings imagination to reality. Through meticulous attention to detail and innovative techniques, we sculpt digital creations that captivate and inspire. Whether it's characters, environments, or products, our modeling expertise ensures every element is brought to life with precision and authenticity. Let us shape your vision into a three-dimensional masterpiece that leaves a lasting impression.</p>
                 </div>
             </div>
         </div>
@@ -84,7 +84,7 @@
             <div class="min-nft">
                     <h1>Insights</h1>
                     <h2>Buying and Selling NFTs</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>Immerse yourself in a world where imagination takes shape in stunning 3D animation. At The Classy Art, we breathe life into ideas, crafting captivating visuals that transcend reality. From dynamic characters to breathtaking landscapes, each frame is meticulously designed to transport viewers on an unforgettable journey. Let us ignite your imagination and bring your vision to life in mesmerizing 3D animation.</p>
                 </div>
             </div>
             <div class="col-md-6">
@@ -106,7 +106,7 @@
             <div class="min-nft">
                     <h1>Insights</h1>
                     <h2>Consideration  of things</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>Dive into a mesmerizing realm where 3D animation sparks wonder at every turn. At The Classy Art, we sculpt dreams into reality, crafting breathtaking worlds and dynamic characters that leap off the screen. Immerse yourself in an adventure where every detail is meticulously crafted, drawing you deeper into the magic of storytelling. Let your imagination soar as we bring your vision to life in stunning 3D.</p>
                 </div>
                
             </div>
@@ -178,32 +178,95 @@
 </section>
 <div class="exclusive-plan">
     <div class="container">
-        <div class="row">
+        <div class="row row-header">
             <div class="col-md-12 text-center">
                 <h1>Pricing</h1>
                 <h2 class="gradient-text">EXCLUSIVE PLANS</h2>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="plan-card">
-                    <h3>Basic Plan</h3>
-                    <p>Design your website logo and pricing.</p>
-                    <!-- Add other details or features -->
+        <div class="row row-cards">
+            <div class="col-1-of-3">
+                <div class="card">
+                    <div class="card__side card__side--front card__side--front-1">
+                        <div class="card__pic card__pic--1"></div>
+                        <h4 class="card__heading">
+                            <!-- <span class="card__h-span-1">Road Bikes</span> -->
+                        </h4>
+                        <div class="card__details">
+                            <ul>
+                                <li>BASIC</li>
+                                <!-- <li>On-road racing</li>
+                                <li>Paved trails</li>
+                                <li>Very light</li>
+                                <li>Very fast</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card__side card__side--back card__side--back-1">
+                        <div class="card__side2-content">
+                            <h4 class="card__price">
+                                <p class="card__price-only">Only</p> 
+                                <p class="card__price-value">$999</p>
+                            </h4>
+                            <a href="" class="btn btn--white">Buy Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="plan-card">
-                    <h3>Plus Plan</h3>
-                    <p>Design your website logo, pricing, and more.</p>
-                    <!-- Add other details or features -->
+            <div class="col-1-of-3">
+                <div class="card">
+                    <div class="card__side card__side--front card__side--front-1">
+                        <div class="card__pic card__pic--2"></div>
+                        <h4 class="card__heading">
+                            <span class="card__h-span-2"><span class="card__span-mountain"></span> </span>
+                        </h4>
+                        <div class="card__details">
+                            <ul>
+                                <li>PLUS</li>
+                                <!-- <li>Full-suspension</li>
+                                <li>Wide tires</li>
+                                <li>Hydraulic breaks</li>
+                                <li>26'</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card__side card__side--back card__side--back-2">
+                        <div class="card__side2-content">
+                            <h4 class="card__price">
+                                <p class="card__price-only">Only</p> 
+                                <p class="card__price-value">$1999</p>
+                            </h4>
+                            <a href="" class="btn btn--white">Buy Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="plan-card">
-                    <h3>Premium Plan</h3>
-                    <p>Design your website logo, pricing, and premium features.</p>
-                    <!-- Add other details or features -->
+            <div class="col-1-of-3">
+                <div class="card">
+                    <div class="card__side card__side--front card__side--front-1">
+                        <div class="card__pic card__pic--3"></div>
+                        <h4 class="card__heading">
+                            <span class="card__h-span-3"></span>
+                        </h4>
+                        <div class="card__details">
+                            <ul>
+                                <li>PREMIUM</li>
+                                <!-- <li>Lightweight</li>
+                                <li>Carbon front</li>
+                                <li>Mudquarded</li>
+                                <li>+ Carrier</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card__side card__side--back card__side--back-3">
+                        <div class="card__side2-content">
+                            <h4 class="card__price">
+                                <p class="card__price-only">Only</p> 
+                                <p class="card__price-value">$499</p>
+                            </h4>
+                            <a href="" class="btn btn--white">Buy Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

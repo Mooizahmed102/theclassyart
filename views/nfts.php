@@ -15,7 +15,10 @@
             <div class="col-md-6">
                 <div class="classy-text">
                     <h1>THE CLASSY ART <span>NFTs</span></h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                    <p>With TCA, discover your inner artist.
+Is your brand stuck in the past? TCA injects a futuristic flair with a touch of timeless artistry! This banner is just a glimpse of what we can do.
+Ready to step into the TCA world? Let's chat about your vision!
+</p>
                     <button class="get-started-btn">Get started</button>
                 </div>
                 <div class="nft-images">
@@ -69,7 +72,7 @@
                 <div class="min-nft">
                     <h1>Insights</h1>
                     <h2>Minting an NFT</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>THE CLASSY ART NFTs, your gateway to the future of digital ownership. Our platform offers creators an effortless way to tokenize their digital masterpieces, collectibles, and creations, transforming them into unique NFTs on the blockchain. With our transparent and secure process, artists, musicians, and creatives can monetize their work and engage with a global audience in the exciting world of non-fungible tokens.</p>
                 </div>
             </div>
         </div>
@@ -84,7 +87,7 @@
             <div class="min-nft">
                     <h1>Insights</h1>
                     <h2>Buying and Selling NFTs</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>Discover a world where digital assets become exclusive treasures. At THE Classy Art, we facilitate the buying and selling of NFTs, allowing creators and collectors to engage in a seamless marketplace experience. Whether you're looking to acquire unique digital artworks or showcase your own creations, our platform provides a secure and transparent environment to explore the vibrant NFT ecosystem. Join us in unlocking the potential of digital ownership and connecting with a global community of artists and enthusiasts.</p>
                 </div>
             </div>
             <div class="col-md-6">
@@ -106,7 +109,7 @@
             <div class="min-nft">
                     <h1>Insights</h1>
                     <h2>Consideration  of things</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>Consider the boundless possibilities of NFTs with THE Classy Art. Our platform transcends mere transactions, offering a gateway to a world where digital assets represent unique expressions of creativity and ownership. Dive into a realm where artists can showcase their work, collectors can discover rare treasures, and enthusiasts can engage in vibrant communities. With THE Classy Art, NFTs become more than just commodities; they become vehicles for storytelling, connection, and cultural exploration.</p>
                 </div>
                
             </div>
@@ -178,32 +181,95 @@
 </section>
 <div class="exclusive-plan">
     <div class="container">
-        <div class="row">
+        <div class="row row-header">
             <div class="col-md-12 text-center">
                 <h1>Pricing</h1>
                 <h2 class="gradient-text">EXCLUSIVE PLANS</h2>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="plan-card">
-                    <h3>Basic Plan</h3>
-                    <p>Design your website logo and pricing.</p>
-                    <!-- Add other details or features -->
+        <div class="row row-cards">
+            <div class="col-1-of-3">
+                <div class="card">
+                    <div class="card__side card__side--front card__side--front-1">
+                        <div class="card__pic card__pic--1"></div>
+                        <h4 class="card__heading">
+                            <!-- <span class="card__h-span-1">Road Bikes</span> -->
+                        </h4>
+                        <div class="card__details">
+                            <ul>
+                                <li>BASIC</li>
+                                <!-- <li>On-road racing</li>
+                                <li>Paved trails</li>
+                                <li>Very light</li>
+                                <li>Very fast</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card__side card__side--back card__side--back-1">
+                        <div class="card__side2-content">
+                            <h4 class="card__price">
+                                <p class="card__price-only">Only</p> 
+                                <p class="card__price-value">$999</p>
+                            </h4>
+                            <a href="" class="btn btn--white">Buy Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="plan-card">
-                    <h3>Plus Plan</h3>
-                    <p>Design your website logo, pricing, and more.</p>
-                    <!-- Add other details or features -->
+            <div class="col-1-of-3">
+                <div class="card">
+                    <div class="card__side card__side--front card__side--front-1">
+                        <div class="card__pic card__pic--2"></div>
+                        <h4 class="card__heading">
+                            <span class="card__h-span-2"><span class="card__span-mountain"></span> </span>
+                        </h4>
+                        <div class="card__details">
+                            <ul>
+                                <li>PLUS</li>
+                                <!-- <li>Full-suspension</li>
+                                <li>Wide tires</li>
+                                <li>Hydraulic breaks</li>
+                                <li>26'</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card__side card__side--back card__side--back-2">
+                        <div class="card__side2-content">
+                            <h4 class="card__price">
+                                <p class="card__price-only">Only</p> 
+                                <p class="card__price-value">$1999</p>
+                            </h4>
+                            <a href="" class="btn btn--white">Buy Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="plan-card">
-                    <h3>Premium Plan</h3>
-                    <p>Design your website logo, pricing, and premium features.</p>
-                    <!-- Add other details or features -->
+            <div class="col-1-of-3">
+                <div class="card">
+                    <div class="card__side card__side--front card__side--front-1">
+                        <div class="card__pic card__pic--3"></div>
+                        <h4 class="card__heading">
+                            <span class="card__h-span-3"></span>
+                        </h4>
+                        <div class="card__details">
+                            <ul>
+                                <li>PREMIUM</li>
+                                <!-- <li>Lightweight</li>
+                                <li>Carbon front</li>
+                                <li>Mudquarded</li>
+                                <li>+ Carrier</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card__side card__side--back card__side--back-3">
+                        <div class="card__side2-content">
+                            <h4 class="card__price">
+                                <p class="card__price-only">Only</p> 
+                                <p class="card__price-value">$499</p>
+                            </h4>
+                            <a href="" class="btn btn--white">Buy Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

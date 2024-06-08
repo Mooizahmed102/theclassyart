@@ -113,7 +113,35 @@
             </div>
         </div>
     </div>
-    
+    <div class="partners-section">
+        <div class="box-text">
+            <h2>Our Partners</h2>
+            <h4>COLLABORATING ASSOCIATES</h4>
+        </div>
+        <div class="container">
+            <div class="row no-gutters">
+                <div class="col-md-2"><img src="assets/images/fast.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/fast.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/eero.png" alt=""></div>
+                <div class="col-md-2"><img src="" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/sepa.png" alt=""></div>
+            </div>
+            <div class="row no-gutters">
+                <div class="col-md-2"><img src="assets/images/astrido.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/arg.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/fast.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/arg.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/fast.png" alt=""></div>
+            </div>
+            <div class="row no-gutters">
+                <div class="col-md-2"><img src="assets/images/havision.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/fast.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/fast.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/fast.png" alt=""></div>
+                <div class="col-md-2"><img src="assets/images/dws.png" alt=""></div>
+            </div>
+        </div>
+    </div>
     <div class="read">
         <div class="container">
             <h1>Testimonials</h1>

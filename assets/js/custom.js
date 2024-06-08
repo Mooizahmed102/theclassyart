@@ -1,4 +1,18 @@
 $(document).ready(function() {
+    $('.overview-nav li').click(function() {
+        var target = $(this).attr('data-targetit');
+
+        // Remove active class from all tabs and contents
+        $('.overview-nav li').removeClass('active');
+        $('.tab-content .tab-pane').removeClass('active');
+
+        // Add active class to clicked tab and corresponding content
+        $(this).addClass('active');
+        $('#' + target).addClass('active');
+    });
+});
+
+$(document).ready(function() {
     switchDiv();
 
     $("li:first-child").addClass("first");

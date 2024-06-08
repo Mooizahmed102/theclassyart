@@ -1738,3 +1738,8 @@ span.card__span-mountain {
 .last span {
     padding-top: 6px;
 }
+.contact-css{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}

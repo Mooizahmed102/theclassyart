@@ -12,8 +12,8 @@
 <?php include_once("includes/header.php") ?>
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                <div class="classy-text">
+            <div class="col-md-6 contact-css">
+                <div class="classy-text ">
                     <h1>CONTACT US</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                     <button class="get-started-btn">Get started</button>
@@ -68,7 +68,7 @@
 
 
 
-<div class="get-touch">
+<!-- <div class="get-touch">
     <div class="container">
         <div class="row">
             <div class="col-md-4 left-column">
@@ -87,7 +87,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <?php include_once("includes/footer.php") ?>
 </body>
 </html>
